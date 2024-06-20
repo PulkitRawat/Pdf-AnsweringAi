@@ -4,8 +4,8 @@ The PDF Question Answering System is a web application developed to extract info
 To Run the Pogramme in your system you need to: 
 - clone the repo 
 ```bash
-git clone github link
-cd repo_name
+git clone https://github.com/PulkitRawat/Pdf-AnsweringAi.git
+cd  Pdf-AnsweringAi
 ```
 - install the required packages
 ```bash
