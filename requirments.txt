@@ -1,0 +1,9 @@
+Flask
+torch
+transformers
+numpy
+scikit-learn
+nltk
+PyMuPDF
+pytesseract
+torchvision
